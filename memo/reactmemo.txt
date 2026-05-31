@@ -1,0 +1,9 @@
+reactのmemo
+
+動的サイト
+
+reactの欠点　重い
+改善方法->javascriptを用いて部分的にhtmlを更新することで軽くすること可能
+
+
+

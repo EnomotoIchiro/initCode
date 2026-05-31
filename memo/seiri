@@ -1,3 +1,26 @@
 知識整理用のやつ
 
 色々追加していく
+
+html
+Webページの構造
+家の柱や壁
+
+css
+webページの見た目
+内装や家具
+
+javascript
+電気みたいな感じ
+こうしたらこうみたいな設定を作る？
+    大文字と小文字は区別される 例 Name ≠ Name
+    基本半角で書く
+    補足コメントかける
+    let 可変 const 不変
+
+
+jsx
+javascriptの拡張構文
+reactのhtml
+
+returnでjsxを返す...コンポーネント
